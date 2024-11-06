@@ -2,7 +2,7 @@
  
 #### About
 
-I'm a web developer and study at Rocketseat. I try to do my best to change the lives of people and companies through innovative technology.
+"I am a backend developer and a Software Engineering student, 21 years old. I am passionate about building scalable and efficient solutions, constantly seeking to improve my knowledge and skills."
  
 <div>
 <a href="https://github.com/juniorlevi11">
