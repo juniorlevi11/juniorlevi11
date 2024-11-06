@@ -1,16 +1,32 @@
-## Olá! Sou Levi Junior, desenvolvedor e estudante de Engenharia de Software
-</p>
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png" alt="python" width="40" height="40"/>
-</a>
-</p>
+## Hi there I'm Levi Junior👋
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorlevi11&show_icons=true&locale=en" alt="juniorlevi11" /></p>
+#### About
+
+I'm a web developer and study at Rocketseat. I try to do my best to change the lives of people and companies through innovative technology.
+ 
+<div>
+<a href="https://github.com/juniorlevi11">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorlevi11&layout=compact&langs_count=16&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorlevi11&show_icons=true&theme=dark"></a>
+</div>
+ 
+---
+
+#### Current stack
+
+- Main language:  `Python` & `C#`
+
+- Backend: `Java`
+
+- Tools: `VsCode` & `Markdown`
+ 
+---
+
+#### Contacts
+ 
+<div> 
+<a href = "levi.alves1409@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/levi-junior-72593120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
  
