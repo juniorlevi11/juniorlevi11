@@ -3,7 +3,7 @@
  
 #### About
 
-I am a backend developer and a Software Engineering student, 21 years old. I am passionate about building scalable and efficient solutions, constantly seeking to improve my knowledge and skills.
+I am a backend developer and a Software Engineering student, 22 years old. I am passionate about building scalable and efficient solutions, constantly seeking to improve my knowledge and skills.
  
 <div>
 <a href="https://github.com/juniorlevi11">
